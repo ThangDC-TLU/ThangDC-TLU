@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Cao Thang
+### Hi there 👋, I'm ThangDC
 
 <!--
 **ThangDC-TLU/ThangDC-TLU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
