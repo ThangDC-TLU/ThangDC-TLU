@@ -52,13 +52,13 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100079643042931" target="blank">
+  <a href="https://web.facebook.com/thangdc.08" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thangdc-facebook" />
   </a>
-  <a href="https://www.instagram.com/tran.thangdc/" target="blank">
+  <a href="https://www.instagram.com/thangdc08/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="thangdc-instagram" />
   </a>
-  <a href="mailto:thangdc@gmail.com" target="top">
+  <a href="mailto:thangdc.tech@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thangdc-email" />
   </a>
 </div>
