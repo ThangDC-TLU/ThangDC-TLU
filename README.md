@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/thangdc.svg" width="1200" alt="thangdc-official" />
+  <img src="thangdc.svg" width="1200" alt="thangdc-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -88,10 +88,3 @@
   <img src="https://visitcount.itsvg.in/api?id=thangdc&label=Profile%20Views&color=0&icon=0&pretty=true" />
   </a>
 </p>
-
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/thangdc-quotes.svg" width="846" height="150" alt="thangdc" />
-</a>
