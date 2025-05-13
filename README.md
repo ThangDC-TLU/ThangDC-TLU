@@ -3,41 +3,30 @@
   <img src="thangdc.svg" width="1200" alt="thangdc-official" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🛠 Technologies I'm Learning 🛠</h2>
 <br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-FFFFFF?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<!-- Công nghệ đang học -->
+<span><img src="https://img.shields.io/badge/Java-FFFFFF?logo=java&logoColor=007396" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/cplusplus-FFFFFF?logo=cplusplus&logoColor=EF5C55" alt="C++ logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Spring Boot-FFFFFF?logo=springboot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/python-FFFFFF?logo=python&logoColor=3776AB" alt="python logo" title="python" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/android-FFFFFF?logo=android&logoColor=34A853" alt="android logo" title="android" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MySQL-FFFFFF?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-FFFFFF?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-FFFFFF?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Tailwind CSS-FFFFFF?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/laravel-FFFFFF?logo=laravel&logoColor=FF2D20" alt="laravel logo" title="laravel" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-FFFFFF?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-FFFFFF?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-FFFFFF?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-FFFFFF?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-FFFFFF?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-FFFFFF?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-FFFFFF?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-FFFFFF?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Figma-FFFFFF?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-FFFFFF?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-FFFFFF?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/figma-FFFFFF?logo=figma&logoColor=F24E1E" alt="figma logo" title="figma" height="25" /></span>
-&nbsp;
+
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
