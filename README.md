@@ -70,10 +70,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=thangdc&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
   </a>
 </p>
-
-<br>
-<p align="left">
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=thangdc&label=Profile%20Views&color=0&icon=0&pretty=true" />
-  </a>
-</p>
