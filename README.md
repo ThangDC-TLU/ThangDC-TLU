@@ -1,4 +1,3 @@
-<!-- Trungquandev -->
 <a href="#" target="_blank">
   <img src="thangdc.svg" width="1200" alt="thangdc-official" />
 </a>
