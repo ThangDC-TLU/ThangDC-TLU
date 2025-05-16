@@ -26,7 +26,6 @@
 ---
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-[![ThangDC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThangDC)](https://github.com/ThangDC-TLU/github-readme-stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThangDC-TLU&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_color=61dafb&hide_border=true&rank_icon=github" />
   <br>
